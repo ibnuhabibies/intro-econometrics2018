@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="US-ASCII" standalone="yes"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<Author></Author>
+<LastAuthor></LastAuthor>
+<Created></Created>
+<LastSaved></LastSaved>
+<Company></Company>
+<Version></Version>
+</DocumentProperties>
+<ExcelWorkbook  xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+<Styles>
+<Style ss:ID="s1">
+<Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+<Font ss:Bold="1"/>
+<NumberFormat/>
+</Style>
+</Styles>
+<Names>
+</Names>
+<Worksheet ss:Name="Sheet1">
+<Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="18"
+ x:FullColumns="1" x:FullRows="1">
+<Row>
+<Cell ss:StyleID="s1"><Data ss:Type="String">agestr</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">agegrp</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">maletotal</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">femtotal</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Under 5</Data></Cell>
+<Cell><Data ss:Type="Number">1.000000</Data></Cell>
+<Cell><Data ss:Type="Number">9810733.000000</Data></Cell>
+<Cell><Data ss:Type="Number">9365065.000000</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">5 to 9</Data></Cell>
+<Cell><Data ss:Type="Number">2.000000</Data></Cell>
+<Cell><Data ss:Type="Number">10523277.000000</Data></Cell>
+<Cell><Data ss:Type="Number">10026228.000000</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">10 to 14</Data></Cell>
+<Cell><Data ss:Type="Number">3.000000</Data></Cell>
+<Cell><Data ss:Type="Number">10520197.000000</Data></Cell>
+<Cell><Data ss:Type="Number">10007875.000000</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">15 to 19</Data></Cell>
+<Cell><Data ss:Type="Number">4.000000</Data></Cell>
+<Cell><Data ss:Type="Number">10391004.000000</Data></Cell>
+<Cell><Data ss:Type="Number">9828886.000000</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">20 to 24</Data></Cell>
+<Cell><Data ss:Type="Number">5.000000</Data></Cell>
+<Cell><Data ss:Type="Number">9687814.000000</Data></Cell>
+<Cell><Data ss:Type="Number">9276187.000000</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">25 to 29</Data></Cell>
+<Cell><Data ss:Type="Number">6.000000</Data></Cell>
+<Cell><Data ss:Type="Number">9798760.000000</Data></Cell>
+<Cell><Data ss:Type="Number">9582576.000000</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">30 to 34</Data></Cell>
+<Cell><Data ss:Type="Number">7.000000</Data></Cell>
+<Cell><Data ss:Type="Number">10321769.000000</Data></Cell>
+<Cell><Data ss:Type="Number">10188619.000000</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">35 to 39</Data></Cell>
+<Cell><Data ss:Type="Number">8.000000</Data></Cell>
+<Cell><Data ss:Type="Number">11318696.000000</Data></Cell>
+<Cell><Data ss:Type="Number">11387968.000000</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">40 to 44</Data></Cell>
+<Cell><Data ss:Type="Number">9.000000</Data></Cell>
+<Cell><Data ss:Type="Number">11129102.000000</Data></Cell>
+<Cell><Data ss:Type="Number">11312761.000000</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">45 to 49</Data></Cell>
+<Cell><Data ss:Type="Number">10.000000</Data></Cell>
+<Cell><Data ss:Type="Number">9889506.000000</Data></Cell>
+<Cell><Data ss:Type="Number">10202898.000000</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">50 to 54</Data></Cell>
+<Cell><Data ss:Type="Number">11.000000</Data></Cell>
+<Cell><Data ss:Type="Number">8607724.000000</Data></Cell>
+<Cell><Data ss:Type="Number">8977824.000000</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">55 to 59</Data></Cell>
+<Cell><Data ss:Type="Number">12.000000</Data></Cell>
+<Cell><Data ss:Type="Number">6508729.000000</Data></Cell>
+<Cell><Data ss:Type="Number">6960508.000000</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">60 to 64</Data></Cell>
+<Cell><Data ss:Type="Number">13.000000</Data></Cell>
+<Cell><Data ss:Type="Number">5136627.000000</Data></Cell>
+<Cell><Data ss:Type="Number">5668820.000000</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">65 to 69</Data></Cell>
+<Cell><Data ss:Type="Number">14.000000</Data></Cell>
+<Cell><Data ss:Type="Number">4400362.000000</Data></Cell>
+<Cell><Data ss:Type="Number">5133183.000000</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">70 to 74</Data></Cell>
+<Cell><Data ss:Type="Number">15.000000</Data></Cell>
+<Cell><Data ss:Type="Number">3902912.000000</Data></Cell>
+<Cell><Data ss:Type="Number">4954529.000000</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">75 to 79</Data></Cell>
+<Cell><Data ss:Type="Number">16.000000</Data></Cell>
+<Cell><Data ss:Type="Number">3044456.000000</Data></Cell>
+<Cell><Data ss:Type="Number">4371357.000000</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">80 to 84</Data></Cell>
+<Cell><Data ss:Type="Number">17.000000</Data></Cell>
+<Cell><Data ss:Type="Number">1834897.000000</Data></Cell>
+<Cell><Data ss:Type="Number">3110470.000000</Data></Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectedObjects>False</ProtectedObjects>
+<ProtectedScenarios>False</ProtectedScenarios>
+</WorksheetOptions>
+</Worksheet>
+</Workbook>

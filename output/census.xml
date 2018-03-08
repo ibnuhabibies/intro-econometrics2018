@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="US-ASCII" standalone="yes"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<Author></Author>
+<LastAuthor></LastAuthor>
+<Created></Created>
+<LastSaved></LastSaved>
+<Company></Company>
+<Version></Version>
+</DocumentProperties>
+<ExcelWorkbook  xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+<Styles>
+<Style ss:ID="s1">
+<Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+<Font ss:Bold="1"/>
+<NumberFormat/>
+</Style>
+</Styles>
+<Names>
+</Names>
+<Worksheet ss:Name="Sheet1">
+<Table ss:ExpandedColumnCount="12" ss:ExpandedRowCount="51"
+ x:FullColumns="1" x:FullRows="1">
+<Row>
+<Cell ss:StyleID="s1"><Data ss:Type="String">state</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">state2</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">region</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">pop</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">poplt5</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">pop5_17</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">pop18p</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">pop65p</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">medage</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">death</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">marriage</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">divorce</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Alabama</Data></Cell>
+<Cell><Data ss:Type="String">AL</Data></Cell>
+<Cell><Data ss:Type="Number">3</Data></Cell>
+<Cell><Data ss:Type="Number">3893888</Data></Cell>
+<Cell><Data ss:Type="Number">296412</Data></Cell>
+<Cell><Data ss:Type="Number">865836</Data></Cell>
+<Cell><Data ss:Type="Number">2731640</Data></Cell>
+<Cell><Data ss:Type="Number">440015</Data></Cell>
+<Cell><Data ss:Type="Number">29.299999</Data></Cell>
+<Cell><Data ss:Type="Number">35305</Data></Cell>
+<Cell><Data ss:Type="Number">49018</Data></Cell>
+<Cell><Data ss:Type="Number">26745</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Alaska</Data></Cell>
+<Cell><Data ss:Type="String">AK</Data></Cell>
+<Cell><Data ss:Type="Number">4</Data></Cell>
+<Cell><Data ss:Type="Number">401851</Data></Cell>
+<Cell><Data ss:Type="Number">38949</Data></Cell>
+<Cell><Data ss:Type="Number">91796</Data></Cell>
+<Cell><Data ss:Type="Number">271106</Data></Cell>
+<Cell><Data ss:Type="Number">11547</Data></Cell>
+<Cell><Data ss:Type="Number">26.100000</Data></Cell>
+<Cell><Data ss:Type="Number">1604</Data></Cell>
+<Cell><Data ss:Type="Number">5361</Data></Cell>
+<Cell><Data ss:Type="Number">3517</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Arizona</Data></Cell>
+<Cell><Data ss:Type="String">AZ</Data></Cell>
+<Cell><Data ss:Type="Number">4</Data></Cell>
+<Cell><Data ss:Type="Number">2718215</Data></Cell>
+<Cell><Data ss:Type="Number">213883</Data></Cell>
+<Cell><Data ss:Type="Number">577604</Data></Cell>
+<Cell><Data ss:Type="Number">1926728</Data></Cell>
+<Cell><Data ss:Type="Number">307362</Data></Cell>
+<Cell><Data ss:Type="Number">29.200001</Data></Cell>
+<Cell><Data ss:Type="Number">21226</Data></Cell>
+<Cell><Data ss:Type="Number">30223</Data></Cell>
+<Cell><Data ss:Type="Number">19908</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Arkansas</Data></Cell>
+<Cell><Data ss:Type="String">AR</Data></Cell>
+<Cell><Data ss:Type="Number">3</Data></Cell>
+<Cell><Data ss:Type="Number">2286435</Data></Cell>
+<Cell><Data ss:Type="Number">175592</Data></Cell>
+<Cell><Data ss:Type="Number">495782</Data></Cell>
+<Cell><Data ss:Type="Number">1615061</Data></Cell>
+<Cell><Data ss:Type="Number">312477</Data></Cell>
+<Cell><Data ss:Type="Number">30.600000</Data></Cell>
+<Cell><Data ss:Type="Number">22676</Data></Cell>
+<Cell><Data ss:Type="Number">26513</Data></Cell>
+<Cell><Data ss:Type="Number">15882</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">California</Data></Cell>
+<Cell><Data ss:Type="String">CA</Data></Cell>
+<Cell><Data ss:Type="Number">4</Data></Cell>
+<Cell><Data ss:Type="Number">23667902</Data></Cell>
+<Cell><Data ss:Type="Number">1708400</Data></Cell>
+<Cell><Data ss:Type="Number">4680558</Data></Cell>
+<Cell><Data ss:Type="Number">17278944</Data></Cell>
+<Cell><Data ss:Type="Number">2414250</Data></Cell>
+<Cell><Data ss:Type="Number">29.900000</Data></Cell>
+<Cell><Data ss:Type="Number">186428</Data></Cell>
+<Cell><Data ss:Type="Number">210864</Data></Cell>
+<Cell><Data ss:Type="Number">133541</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Colorado</Data></Cell>
+<Cell><Data ss:Type="String">CO</Data></Cell>
+<Cell><Data ss:Type="Number">4</Data></Cell>
+<Cell><Data ss:Type="Number">2889964</Data></Cell>
+<Cell><Data ss:Type="Number">216495</Data></Cell>
+<Cell><Data ss:Type="Number">592318</Data></Cell>
+<Cell><Data ss:Type="Number">2081151</Data></Cell>
+<Cell><Data ss:Type="Number">247325</Data></Cell>
+<Cell><Data ss:Type="Number">28.600000</Data></Cell>
+<Cell><Data ss:Type="Number">18925</Data></Cell>
+<Cell><Data ss:Type="Number">34917</Data></Cell>
+<Cell><Data ss:Type="Number">18571</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Connecticut</Data></Cell>
+<Cell><Data ss:Type="String">CT</Data></Cell>
+<Cell><Data ss:Type="Number">1</Data></Cell>
+<Cell><Data ss:Type="Number">3107576</Data></Cell>
+<Cell><Data ss:Type="Number">185188</Data></Cell>
+<Cell><Data ss:Type="Number">637731</Data></Cell>
+<Cell><Data ss:Type="Number">2284657</Data></Cell>
+<Cell><Data ss:Type="Number">364864</Data></Cell>
+<Cell><Data ss:Type="Number">32.000000</Data></Cell>
+<Cell><Data ss:Type="Number">26005</Data></Cell>
+<Cell><Data ss:Type="Number">26048</Data></Cell>
+<Cell><Data ss:Type="Number">13488</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Delaware</Data></Cell>
+<Cell><Data ss:Type="String">DE</Data></Cell>
+<Cell><Data ss:Type="Number">3</Data></Cell>
+<Cell><Data ss:Type="Number">594338</Data></Cell>
+<Cell><Data ss:Type="Number">41151</Data></Cell>
+<Cell><Data ss:Type="Number">125444</Data></Cell>
+<Cell><Data ss:Type="Number">427743</Data></Cell>
+<Cell><Data ss:Type="Number">59179</Data></Cell>
+<Cell><Data ss:Type="Number">29.799999</Data></Cell>
+<Cell><Data ss:Type="Number">5123</Data></Cell>
+<Cell><Data ss:Type="Number">4437</Data></Cell>
+<Cell><Data ss:Type="Number">2313</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Florida</Data></Cell>
+<Cell><Data ss:Type="String">FL</Data></Cell>
+<Cell><Data ss:Type="Number">3</Data></Cell>
+<Cell><Data ss:Type="Number">9746324</Data></Cell>
+<Cell><Data ss:Type="Number">570224</Data></Cell>
+<Cell><Data ss:Type="Number">1789412</Data></Cell>
+<Cell><Data ss:Type="Number">7386688</Data></Cell>
+<Cell><Data ss:Type="Number">1687573</Data></Cell>
+<Cell><Data ss:Type="Number">34.700001</Data></Cell>
+<Cell><Data ss:Type="Number">104190</Data></Cell>
+<Cell><Data ss:Type="Number">108344</Data></Cell>
+<Cell><Data ss:Type="Number">71579</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Georgia</Data></Cell>
+<Cell><Data ss:Type="String">GA</Data></Cell>
+<Cell><Data ss:Type="Number">3</Data></Cell>
+<Cell><Data ss:Type="Number">5463105</Data></Cell>
+<Cell><Data ss:Type="Number">414935</Data></Cell>
+<Cell><Data ss:Type="Number">1231195</Data></Cell>
+<Cell><Data ss:Type="Number">3816975</Data></Cell>
+<Cell><Data ss:Type="Number">516731</Data></Cell>
+<Cell><Data ss:Type="Number">28.700001</Data></Cell>
+<Cell><Data ss:Type="Number">44230</Data></Cell>
+<Cell><Data ss:Type="Number">70638</Data></Cell>
+<Cell><Data ss:Type="Number">34743</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Hawaii</Data></Cell>
+<Cell><Data ss:Type="String">HI</Data></Cell>
+<Cell><Data ss:Type="Number">4</Data></Cell>
+<Cell><Data ss:Type="Number">964691</Data></Cell>
+<Cell><Data ss:Type="Number">77848</Data></Cell>
+<Cell><Data ss:Type="Number">197735</Data></Cell>
+<Cell><Data ss:Type="Number">689108</Data></Cell>
+<Cell><Data ss:Type="Number">76150</Data></Cell>
+<Cell><Data ss:Type="Number">28.400000</Data></Cell>
+<Cell><Data ss:Type="Number">4849</Data></Cell>
+<Cell><Data ss:Type="Number">11856</Data></Cell>
+<Cell><Data ss:Type="Number">4438</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Idaho</Data></Cell>
+<Cell><Data ss:Type="String">ID</Data></Cell>
+<Cell><Data ss:Type="Number">4</Data></Cell>
+<Cell><Data ss:Type="Number">943935</Data></Cell>
+<Cell><Data ss:Type="Number">93531</Data></Cell>
+<Cell><Data ss:Type="Number">213134</Data></Cell>
+<Cell><Data ss:Type="Number">637270</Data></Cell>
+<Cell><Data ss:Type="Number">93680</Data></Cell>
+<Cell><Data ss:Type="Number">27.600000</Data></Cell>
+<Cell><Data ss:Type="Number">6753</Data></Cell>
+<Cell><Data ss:Type="Number">13428</Data></Cell>
+<Cell><Data ss:Type="Number">6596</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Illinois</Data></Cell>
+<Cell><Data ss:Type="String">IL</Data></Cell>
+<Cell><Data ss:Type="Number">3</Data></Cell>
+<Cell><Data ss:Type="Number">11426518</Data></Cell>
+<Cell><Data ss:Type="Number">842241</Data></Cell>
+<Cell><Data ss:Type="Number">2400796</Data></Cell>
+<Cell><Data ss:Type="Number">8183481</Data></Cell>
+<Cell><Data ss:Type="Number">1261885</Data></Cell>
+<Cell><Data ss:Type="Number">29.900000</Data></Cell>
+<Cell><Data ss:Type="Number">102230</Data></Cell>
+<Cell><Data ss:Type="Number">109823</Data></Cell>
+<Cell><Data ss:Type="Number">50997</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Indiana</Data></Cell>
+<Cell><Data ss:Type="String">IN</Data></Cell>
+<Cell><Data ss:Type="Number">3</Data></Cell>
+<Cell><Data ss:Type="Number">5490224</Data></Cell>
+<Cell><Data ss:Type="Number">418764</Data></Cell>
+<Cell><Data ss:Type="Number">1199554</Data></Cell>
+<Cell><Data ss:Type="Number">3871906</Data></Cell>
+<Cell><Data ss:Type="Number">585384</Data></Cell>
+<Cell><Data ss:Type="Number">29.200001</Data></Cell>
+<Cell><Data ss:Type="Number">47300</Data></Cell>
+<Cell><Data ss:Type="Number">57853</Data></Cell>
+<Cell><Data ss:Type="Number">40006</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Iowa</Data></Cell>
+<Cell><Data ss:Type="String">IA</Data></Cell>
+<Cell><Data ss:Type="Number">3</Data></Cell>
+<Cell><Data ss:Type="Number">2913808</Data></Cell>
+<Cell><Data ss:Type="Number">221628</Data></Cell>
+<Cell><Data ss:Type="Number">604245</Data></Cell>
+<Cell><Data ss:Type="Number">2087935</Data></Cell>
+<Cell><Data ss:Type="Number">387584</Data></Cell>
+<Cell><Data ss:Type="Number">30.000000</Data></Cell>
+<Cell><Data ss:Type="Number">26348</Data></Cell>
+<Cell><Data ss:Type="Number">27474</Data></Cell>
+<Cell><Data ss:Type="Number">11854</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Kansas</Data></Cell>
+<Cell><Data ss:Type="String">KS</Data></Cell>
+<Cell><Data ss:Type="Number">3</Data></Cell>
+<Cell><Data ss:Type="Number">2363679</Data></Cell>
+<Cell><Data ss:Type="Number">180877</Data></Cell>
+<Cell><Data ss:Type="Number">468158</Data></Cell>
+<Cell><Data ss:Type="Number">1714644</Data></Cell>
+<Cell><Data ss:Type="Number">306263</Data></Cell>
+<Cell><Data ss:Type="Number">30.100000</Data></Cell>
+<Cell><Data ss:Type="Number">21910</Data></Cell>
+<Cell><Data ss:Type="Number">24847</Data></Cell>
+<Cell><Data ss:Type="Number">13410</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Kentucky</Data></Cell>
+<Cell><Data ss:Type="String">KY</Data></Cell>
+<Cell><Data ss:Type="Number">3</Data></Cell>
+<Cell><Data ss:Type="Number">3660777</Data></Cell>
+<Cell><Data ss:Type="Number">282731</Data></Cell>
+<Cell><Data ss:Type="Number">799999</Data></Cell>
+<Cell><Data ss:Type="Number">2578047</Data></Cell>
+<Cell><Data ss:Type="Number">409828</Data></Cell>
+<Cell><Data ss:Type="Number">29.100000</Data></Cell>
+<Cell><Data ss:Type="Number">33765</Data></Cell>
+<Cell><Data ss:Type="Number">32727</Data></Cell>
+<Cell><Data ss:Type="Number">16731</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Louisiana</Data></Cell>
+<Cell><Data ss:Type="String">LA</Data></Cell>
+<Cell><Data ss:Type="Number">3</Data></Cell>
+<Cell><Data ss:Type="Number">4205900</Data></Cell>
+<Cell><Data ss:Type="Number">361533</Data></Cell>
+<Cell><Data ss:Type="Number">968935</Data></Cell>
+<Cell><Data ss:Type="Number">2875432</Data></Cell>
+<Cell><Data ss:Type="Number">404279</Data></Cell>
+<Cell><Data ss:Type="Number">27.400000</Data></Cell>
+<Cell><Data ss:Type="Number">35518</Data></Cell>
+<Cell><Data ss:Type="Number">43460</Data></Cell>
+<Cell><Data ss:Type="Number">18108</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Maine</Data></Cell>
+<Cell><Data ss:Type="String">ME</Data></Cell>
+<Cell><Data ss:Type="Number">1</Data></Cell>
+<Cell><Data ss:Type="Number">1124660</Data></Cell>
+<Cell><Data ss:Type="Number">78514</Data></Cell>
+<Cell><Data ss:Type="Number">242873</Data></Cell>
+<Cell><Data ss:Type="Number">803273</Data></Cell>
+<Cell><Data ss:Type="Number">140918</Data></Cell>
+<Cell><Data ss:Type="Number">30.400000</Data></Cell>
+<Cell><Data ss:Type="Number">10768</Data></Cell>
+<Cell><Data ss:Type="Number">12040</Data></Cell>
+<Cell><Data ss:Type="Number">6205</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Maryland</Data></Cell>
+<Cell><Data ss:Type="String">MD</Data></Cell>
+<Cell><Data ss:Type="Number">3</Data></Cell>
+<Cell><Data ss:Type="Number">4216975</Data></Cell>
+<Cell><Data ss:Type="Number">272274</Data></Cell>
+<Cell><Data ss:Type="Number">895256</Data></Cell>
+<Cell><Data ss:Type="Number">3049445</Data></Cell>
+<Cell><Data ss:Type="Number">395609</Data></Cell>
+<Cell><Data ss:Type="Number">30.299999</Data></Cell>
+<Cell><Data ss:Type="Number">34025</Data></Cell>
+<Cell><Data ss:Type="Number">46278</Data></Cell>
+<Cell><Data ss:Type="Number">17494</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Massachusetts</Data></Cell>
+<Cell><Data ss:Type="String">MA</Data></Cell>
+<Cell><Data ss:Type="Number">1</Data></Cell>
+<Cell><Data ss:Type="Number">5737037</Data></Cell>
+<Cell><Data ss:Type="Number">337215</Data></Cell>
+<Cell><Data ss:Type="Number">1153174</Data></Cell>
+<Cell><Data ss:Type="Number">4246648</Data></Cell>
+<Cell><Data ss:Type="Number">726531</Data></Cell>
+<Cell><Data ss:Type="Number">31.200001</Data></Cell>
+<Cell><Data ss:Type="Number">54919</Data></Cell>
+<Cell><Data ss:Type="Number">46273</Data></Cell>
+<Cell><Data ss:Type="Number">17873</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Michigan</Data></Cell>
+<Cell><Data ss:Type="String">MI</Data></Cell>
+<Cell><Data ss:Type="Number">2</Data></Cell>
+<Cell><Data ss:Type="Number">9262078</Data></Cell>
+<Cell><Data ss:Type="Number">685113</Data></Cell>
+<Cell><Data ss:Type="Number">2066873</Data></Cell>
+<Cell><Data ss:Type="Number">6510092</Data></Cell>
+<Cell><Data ss:Type="Number">912258</Data></Cell>
+<Cell><Data ss:Type="Number">28.799999</Data></Cell>
+<Cell><Data ss:Type="Number">75102</Data></Cell>
+<Cell><Data ss:Type="Number">86898</Data></Cell>
+<Cell><Data ss:Type="Number">45047</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Minnesota</Data></Cell>
+<Cell><Data ss:Type="String">MN</Data></Cell>
+<Cell><Data ss:Type="Number">2</Data></Cell>
+<Cell><Data ss:Type="Number">4075970</Data></Cell>
+<Cell><Data ss:Type="Number">307249</Data></Cell>
+<Cell><Data ss:Type="Number">864559</Data></Cell>
+<Cell><Data ss:Type="Number">2904162</Data></Cell>
+<Cell><Data ss:Type="Number">479564</Data></Cell>
+<Cell><Data ss:Type="Number">29.200001</Data></Cell>
+<Cell><Data ss:Type="Number">33412</Data></Cell>
+<Cell><Data ss:Type="Number">37641</Data></Cell>
+<Cell><Data ss:Type="Number">15371</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Mississippi</Data></Cell>
+<Cell><Data ss:Type="String">MS</Data></Cell>
+<Cell><Data ss:Type="Number">3</Data></Cell>
+<Cell><Data ss:Type="Number">2520638</Data></Cell>
+<Cell><Data ss:Type="Number">215279</Data></Cell>
+<Cell><Data ss:Type="Number">598918</Data></Cell>
+<Cell><Data ss:Type="Number">1706441</Data></Cell>
+<Cell><Data ss:Type="Number">289357</Data></Cell>
+<Cell><Data ss:Type="Number">27.700001</Data></Cell>
+<Cell><Data ss:Type="Number">23570</Data></Cell>
+<Cell><Data ss:Type="Number">27908</Data></Cell>
+<Cell><Data ss:Type="Number">13846</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Missouri</Data></Cell>
+<Cell><Data ss:Type="String">MO</Data></Cell>
+<Cell><Data ss:Type="Number">2</Data></Cell>
+<Cell><Data ss:Type="Number">4916686</Data></Cell>
+<Cell><Data ss:Type="Number">354144</Data></Cell>
+<Cell><Data ss:Type="Number">1008339</Data></Cell>
+<Cell><Data ss:Type="Number">3554203</Data></Cell>
+<Cell><Data ss:Type="Number">648126</Data></Cell>
+<Cell><Data ss:Type="Number">30.900000</Data></Cell>
+<Cell><Data ss:Type="Number">49329</Data></Cell>
+<Cell><Data ss:Type="Number">54625</Data></Cell>
+<Cell><Data ss:Type="Number">27595</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Montana</Data></Cell>
+<Cell><Data ss:Type="String">MT</Data></Cell>
+<Cell><Data ss:Type="Number">4</Data></Cell>
+<Cell><Data ss:Type="Number">786690</Data></Cell>
+<Cell><Data ss:Type="Number">64455</Data></Cell>
+<Cell><Data ss:Type="Number">167440</Data></Cell>
+<Cell><Data ss:Type="Number">554795</Data></Cell>
+<Cell><Data ss:Type="Number">84559</Data></Cell>
+<Cell><Data ss:Type="Number">29.000000</Data></Cell>
+<Cell><Data ss:Type="Number">6664</Data></Cell>
+<Cell><Data ss:Type="Number">8336</Data></Cell>
+<Cell><Data ss:Type="Number">4940</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Nebraska</Data></Cell>
+<Cell><Data ss:Type="String">NE</Data></Cell>
+<Cell><Data ss:Type="Number">2</Data></Cell>
+<Cell><Data ss:Type="Number">1569825</Data></Cell>
+<Cell><Data ss:Type="Number">122946</Data></Cell>
+<Cell><Data ss:Type="Number">324224</Data></Cell>
+<Cell><Data ss:Type="Number">1122655</Data></Cell>
+<Cell><Data ss:Type="Number">205684</Data></Cell>
+<Cell><Data ss:Type="Number">29.700001</Data></Cell>
+<Cell><Data ss:Type="Number">14465</Data></Cell>
+<Cell><Data ss:Type="Number">14239</Data></Cell>
+<Cell><Data ss:Type="Number">6442</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Nevada</Data></Cell>
+<Cell><Data ss:Type="String">NV</Data></Cell>
+<Cell><Data ss:Type="Number">4</Data></Cell>
+<Cell><Data ss:Type="Number">800493</Data></Cell>
+<Cell><Data ss:Type="Number">56132</Data></Cell>
+<Cell><Data ss:Type="Number">159667</Data></Cell>
+<Cell><Data ss:Type="Number">584694</Data></Cell>
+<Cell><Data ss:Type="Number">65756</Data></Cell>
+<Cell><Data ss:Type="Number">30.200001</Data></Cell>
+<Cell><Data ss:Type="Number">5852</Data></Cell>
+<Cell><Data ss:Type="Number">114333</Data></Cell>
+<Cell><Data ss:Type="Number">13842</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">New Hampshire</Data></Cell>
+<Cell><Data ss:Type="String">NH</Data></Cell>
+<Cell><Data ss:Type="Number">1</Data></Cell>
+<Cell><Data ss:Type="Number">920610</Data></Cell>
+<Cell><Data ss:Type="Number">62512</Data></Cell>
+<Cell><Data ss:Type="Number">195570</Data></Cell>
+<Cell><Data ss:Type="Number">662528</Data></Cell>
+<Cell><Data ss:Type="Number">102967</Data></Cell>
+<Cell><Data ss:Type="Number">30.100000</Data></Cell>
+<Cell><Data ss:Type="Number">7594</Data></Cell>
+<Cell><Data ss:Type="Number">9251</Data></Cell>
+<Cell><Data ss:Type="Number">5254</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">New Jersey</Data></Cell>
+<Cell><Data ss:Type="String">NJ</Data></Cell>
+<Cell><Data ss:Type="Number">1</Data></Cell>
+<Cell><Data ss:Type="Number">7364823</Data></Cell>
+<Cell><Data ss:Type="Number">463289</Data></Cell>
+<Cell><Data ss:Type="Number">1527572</Data></Cell>
+<Cell><Data ss:Type="Number">5373962</Data></Cell>
+<Cell><Data ss:Type="Number">859771</Data></Cell>
+<Cell><Data ss:Type="Number">32.200001</Data></Cell>
+<Cell><Data ss:Type="Number">68762</Data></Cell>
+<Cell><Data ss:Type="Number">55794</Data></Cell>
+<Cell><Data ss:Type="Number">27796</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">New Mexico</Data></Cell>
+<Cell><Data ss:Type="String">NM</Data></Cell>
+<Cell><Data ss:Type="Number">4</Data></Cell>
+<Cell><Data ss:Type="Number">1302894</Data></Cell>
+<Cell><Data ss:Type="Number">114731</Data></Cell>
+<Cell><Data ss:Type="Number">303176</Data></Cell>
+<Cell><Data ss:Type="Number">884987</Data></Cell>
+<Cell><Data ss:Type="Number">115906</Data></Cell>
+<Cell><Data ss:Type="Number">27.400000</Data></Cell>
+<Cell><Data ss:Type="Number">9016</Data></Cell>
+<Cell><Data ss:Type="Number">16641</Data></Cell>
+<Cell><Data ss:Type="Number">10426</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">New York</Data></Cell>
+<Cell><Data ss:Type="String">NY</Data></Cell>
+<Cell><Data ss:Type="Number">1</Data></Cell>
+<Cell><Data ss:Type="Number">17558072</Data></Cell>
+<Cell><Data ss:Type="Number">1135925</Data></Cell>
+<Cell><Data ss:Type="Number">3551938</Data></Cell>
+<Cell><Data ss:Type="Number">12870209</Data></Cell>
+<Cell><Data ss:Type="Number">2160767</Data></Cell>
+<Cell><Data ss:Type="Number">31.900000</Data></Cell>
+<Cell><Data ss:Type="Number">171769</Data></Cell>
+<Cell><Data ss:Type="Number">144518</Data></Cell>
+<Cell><Data ss:Type="Number">61972</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">N. Carolina</Data></Cell>
+<Cell><Data ss:Type="String">NC</Data></Cell>
+<Cell><Data ss:Type="Number">3</Data></Cell>
+<Cell><Data ss:Type="Number">5881766</Data></Cell>
+<Cell><Data ss:Type="Number">404076</Data></Cell>
+<Cell><Data ss:Type="Number">1253659</Data></Cell>
+<Cell><Data ss:Type="Number">4224031</Data></Cell>
+<Cell><Data ss:Type="Number">603181</Data></Cell>
+<Cell><Data ss:Type="Number">29.600000</Data></Cell>
+<Cell><Data ss:Type="Number">48426</Data></Cell>
+<Cell><Data ss:Type="Number">46718</Data></Cell>
+<Cell><Data ss:Type="Number">28050</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">N. Dakota</Data></Cell>
+<Cell><Data ss:Type="String">ND</Data></Cell>
+<Cell><Data ss:Type="Number">2</Data></Cell>
+<Cell><Data ss:Type="Number">652717</Data></Cell>
+<Cell><Data ss:Type="Number">54752</Data></Cell>
+<Cell><Data ss:Type="Number">136239</Data></Cell>
+<Cell><Data ss:Type="Number">461726</Data></Cell>
+<Cell><Data ss:Type="Number">80445</Data></Cell>
+<Cell><Data ss:Type="Number">28.299999</Data></Cell>
+<Cell><Data ss:Type="Number">5596</Data></Cell>
+<Cell><Data ss:Type="Number">6094</Data></Cell>
+<Cell><Data ss:Type="Number">2142</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Ohio</Data></Cell>
+<Cell><Data ss:Type="String">OH</Data></Cell>
+<Cell><Data ss:Type="Number">2</Data></Cell>
+<Cell><Data ss:Type="Number">10797630</Data></Cell>
+<Cell><Data ss:Type="Number">787150</Data></Cell>
+<Cell><Data ss:Type="Number">2307170</Data></Cell>
+<Cell><Data ss:Type="Number">7703310</Data></Cell>
+<Cell><Data ss:Type="Number">1169460</Data></Cell>
+<Cell><Data ss:Type="Number">29.900000</Data></Cell>
+<Cell><Data ss:Type="Number">98268</Data></Cell>
+<Cell><Data ss:Type="Number">99832</Data></Cell>
+<Cell><Data ss:Type="Number">58809</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Oklahoma</Data></Cell>
+<Cell><Data ss:Type="String">OK</Data></Cell>
+<Cell><Data ss:Type="Number">3</Data></Cell>
+<Cell><Data ss:Type="Number">3025290</Data></Cell>
+<Cell><Data ss:Type="Number">233307</Data></Cell>
+<Cell><Data ss:Type="Number">621577</Data></Cell>
+<Cell><Data ss:Type="Number">2170406</Data></Cell>
+<Cell><Data ss:Type="Number">376126</Data></Cell>
+<Cell><Data ss:Type="Number">30.100000</Data></Cell>
+<Cell><Data ss:Type="Number">28227</Data></Cell>
+<Cell><Data ss:Type="Number">46509</Data></Cell>
+<Cell><Data ss:Type="Number">24226</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Oregon</Data></Cell>
+<Cell><Data ss:Type="String">OR</Data></Cell>
+<Cell><Data ss:Type="Number">4</Data></Cell>
+<Cell><Data ss:Type="Number">2633105</Data></Cell>
+<Cell><Data ss:Type="Number">198046</Data></Cell>
+<Cell><Data ss:Type="Number">525011</Data></Cell>
+<Cell><Data ss:Type="Number">1910048</Data></Cell>
+<Cell><Data ss:Type="Number">303336</Data></Cell>
+<Cell><Data ss:Type="Number">30.200001</Data></Cell>
+<Cell><Data ss:Type="Number">21756</Data></Cell>
+<Cell><Data ss:Type="Number">23004</Data></Cell>
+<Cell><Data ss:Type="Number">17762</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Pennsylvania</Data></Cell>
+<Cell><Data ss:Type="String">PA</Data></Cell>
+<Cell><Data ss:Type="Number">1</Data></Cell>
+<Cell><Data ss:Type="Number">11863895</Data></Cell>
+<Cell><Data ss:Type="Number">747458</Data></Cell>
+<Cell><Data ss:Type="Number">2375838</Data></Cell>
+<Cell><Data ss:Type="Number">8740599</Data></Cell>
+<Cell><Data ss:Type="Number">1530933</Data></Cell>
+<Cell><Data ss:Type="Number">32.099998</Data></Cell>
+<Cell><Data ss:Type="Number">123261</Data></Cell>
+<Cell><Data ss:Type="Number">93673</Data></Cell>
+<Cell><Data ss:Type="Number">34922</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Rhode Island</Data></Cell>
+<Cell><Data ss:Type="String">RI</Data></Cell>
+<Cell><Data ss:Type="Number">1</Data></Cell>
+<Cell><Data ss:Type="Number">947154</Data></Cell>
+<Cell><Data ss:Type="Number">56692</Data></Cell>
+<Cell><Data ss:Type="Number">186159</Data></Cell>
+<Cell><Data ss:Type="Number">704303</Data></Cell>
+<Cell><Data ss:Type="Number">126922</Data></Cell>
+<Cell><Data ss:Type="Number">31.799999</Data></Cell>
+<Cell><Data ss:Type="Number">9300</Data></Cell>
+<Cell><Data ss:Type="Number">7490</Data></Cell>
+<Cell><Data ss:Type="Number">3606</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">S. Carolina</Data></Cell>
+<Cell><Data ss:Type="String">SC</Data></Cell>
+<Cell><Data ss:Type="Number">3</Data></Cell>
+<Cell><Data ss:Type="Number">3121820</Data></Cell>
+<Cell><Data ss:Type="Number">238516</Data></Cell>
+<Cell><Data ss:Type="Number">703450</Data></Cell>
+<Cell><Data ss:Type="Number">2179854</Data></Cell>
+<Cell><Data ss:Type="Number">287328</Data></Cell>
+<Cell><Data ss:Type="Number">28.100000</Data></Cell>
+<Cell><Data ss:Type="Number">25138</Data></Cell>
+<Cell><Data ss:Type="Number">53915</Data></Cell>
+<Cell><Data ss:Type="Number">13595</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">S. Dakota</Data></Cell>
+<Cell><Data ss:Type="String">SD</Data></Cell>
+<Cell><Data ss:Type="Number">2</Data></Cell>
+<Cell><Data ss:Type="Number">690768</Data></Cell>
+<Cell><Data ss:Type="Number">58446</Data></Cell>
+<Cell><Data ss:Type="Number">147160</Data></Cell>
+<Cell><Data ss:Type="Number">485162</Data></Cell>
+<Cell><Data ss:Type="Number">91019</Data></Cell>
+<Cell><Data ss:Type="Number">28.900000</Data></Cell>
+<Cell><Data ss:Type="Number">6523</Data></Cell>
+<Cell><Data ss:Type="Number">8800</Data></Cell>
+<Cell><Data ss:Type="Number">2811</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Tennessee</Data></Cell>
+<Cell><Data ss:Type="String">TN</Data></Cell>
+<Cell><Data ss:Type="Number">3</Data></Cell>
+<Cell><Data ss:Type="Number">4591120</Data></Cell>
+<Cell><Data ss:Type="Number">326088</Data></Cell>
+<Cell><Data ss:Type="Number">972472</Data></Cell>
+<Cell><Data ss:Type="Number">3292560</Data></Cell>
+<Cell><Data ss:Type="Number">517588</Data></Cell>
+<Cell><Data ss:Type="Number">30.100000</Data></Cell>
+<Cell><Data ss:Type="Number">40713</Data></Cell>
+<Cell><Data ss:Type="Number">59175</Data></Cell>
+<Cell><Data ss:Type="Number">30206</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Texas</Data></Cell>
+<Cell><Data ss:Type="String">TX</Data></Cell>
+<Cell><Data ss:Type="Number">3</Data></Cell>
+<Cell><Data ss:Type="Number">14229191</Data></Cell>
+<Cell><Data ss:Type="Number">1169061</Data></Cell>
+<Cell><Data ss:Type="Number">3137045</Data></Cell>
+<Cell><Data ss:Type="Number">9923085</Data></Cell>
+<Cell><Data ss:Type="Number">1371161</Data></Cell>
+<Cell><Data ss:Type="Number">28.200001</Data></Cell>
+<Cell><Data ss:Type="Number">108019</Data></Cell>
+<Cell><Data ss:Type="Number">181762</Data></Cell>
+<Cell><Data ss:Type="Number">96809</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Utah</Data></Cell>
+<Cell><Data ss:Type="String">UT</Data></Cell>
+<Cell><Data ss:Type="Number">4</Data></Cell>
+<Cell><Data ss:Type="Number">1461037</Data></Cell>
+<Cell><Data ss:Type="Number">189962</Data></Cell>
+<Cell><Data ss:Type="Number">350143</Data></Cell>
+<Cell><Data ss:Type="Number">920932</Data></Cell>
+<Cell><Data ss:Type="Number">109220</Data></Cell>
+<Cell><Data ss:Type="Number">24.200001</Data></Cell>
+<Cell><Data ss:Type="Number">8103</Data></Cell>
+<Cell><Data ss:Type="Number">16958</Data></Cell>
+<Cell><Data ss:Type="Number">7802</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Vermont</Data></Cell>
+<Cell><Data ss:Type="String">VT</Data></Cell>
+<Cell><Data ss:Type="Number">1</Data></Cell>
+<Cell><Data ss:Type="Number">511456</Data></Cell>
+<Cell><Data ss:Type="Number">35998</Data></Cell>
+<Cell><Data ss:Type="Number">109320</Data></Cell>
+<Cell><Data ss:Type="Number">366138</Data></Cell>
+<Cell><Data ss:Type="Number">58166</Data></Cell>
+<Cell><Data ss:Type="Number">29.400000</Data></Cell>
+<Cell><Data ss:Type="Number">4587</Data></Cell>
+<Cell><Data ss:Type="Number">5226</Data></Cell>
+<Cell><Data ss:Type="Number">2623</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Virginia</Data></Cell>
+<Cell><Data ss:Type="String">VA</Data></Cell>
+<Cell><Data ss:Type="Number">3</Data></Cell>
+<Cell><Data ss:Type="Number">5346818</Data></Cell>
+<Cell><Data ss:Type="Number">360686</Data></Cell>
+<Cell><Data ss:Type="Number">1113648</Data></Cell>
+<Cell><Data ss:Type="Number">3872484</Data></Cell>
+<Cell><Data ss:Type="Number">505304</Data></Cell>
+<Cell><Data ss:Type="Number">29.799999</Data></Cell>
+<Cell><Data ss:Type="Number">42496</Data></Cell>
+<Cell><Data ss:Type="Number">60210</Data></Cell>
+<Cell><Data ss:Type="Number">23615</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Washington</Data></Cell>
+<Cell><Data ss:Type="String">WA</Data></Cell>
+<Cell><Data ss:Type="Number">4</Data></Cell>
+<Cell><Data ss:Type="Number">4132156</Data></Cell>
+<Cell><Data ss:Type="Number">306123</Data></Cell>
+<Cell><Data ss:Type="Number">833237</Data></Cell>
+<Cell><Data ss:Type="Number">2992796</Data></Cell>
+<Cell><Data ss:Type="Number">431562</Data></Cell>
+<Cell><Data ss:Type="Number">29.799999</Data></Cell>
+<Cell><Data ss:Type="Number">32012</Data></Cell>
+<Cell><Data ss:Type="Number">47728</Data></Cell>
+<Cell><Data ss:Type="Number">28642</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">W. Virginia</Data></Cell>
+<Cell><Data ss:Type="String">WV</Data></Cell>
+<Cell><Data ss:Type="Number">3</Data></Cell>
+<Cell><Data ss:Type="Number">1949644</Data></Cell>
+<Cell><Data ss:Type="Number">145583</Data></Cell>
+<Cell><Data ss:Type="Number">414053</Data></Cell>
+<Cell><Data ss:Type="Number">1390008</Data></Cell>
+<Cell><Data ss:Type="Number">237868</Data></Cell>
+<Cell><Data ss:Type="Number">30.400000</Data></Cell>
+<Cell><Data ss:Type="Number">19186</Data></Cell>
+<Cell><Data ss:Type="Number">17391</Data></Cell>
+<Cell><Data ss:Type="Number">10273</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Wisconsin</Data></Cell>
+<Cell><Data ss:Type="String">WI</Data></Cell>
+<Cell><Data ss:Type="Number">2</Data></Cell>
+<Cell><Data ss:Type="Number">4705767</Data></Cell>
+<Cell><Data ss:Type="Number">346940</Data></Cell>
+<Cell><Data ss:Type="Number">1010880</Data></Cell>
+<Cell><Data ss:Type="Number">3347947</Data></Cell>
+<Cell><Data ss:Type="Number">564197</Data></Cell>
+<Cell><Data ss:Type="Number">29.400000</Data></Cell>
+<Cell><Data ss:Type="Number">39255</Data></Cell>
+<Cell><Data ss:Type="Number">41111</Data></Cell>
+<Cell><Data ss:Type="Number">17546</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Wyoming</Data></Cell>
+<Cell><Data ss:Type="String">WY</Data></Cell>
+<Cell><Data ss:Type="Number">4</Data></Cell>
+<Cell><Data ss:Type="Number">469557</Data></Cell>
+<Cell><Data ss:Type="Number">44845</Data></Cell>
+<Cell><Data ss:Type="Number">100708</Data></Cell>
+<Cell><Data ss:Type="Number">324004</Data></Cell>
+<Cell><Data ss:Type="Number">37175</Data></Cell>
+<Cell><Data ss:Type="Number">27.100000</Data></Cell>
+<Cell><Data ss:Type="Number">3215</Data></Cell>
+<Cell><Data ss:Type="Number">6868</Data></Cell>
+<Cell><Data ss:Type="Number">4003</Data></Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectedObjects>False</ProtectedObjects>
+<ProtectedScenarios>False</ProtectedScenarios>
+</WorksheetOptions>
+</Worksheet>
+</Workbook>
